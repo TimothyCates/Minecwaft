@@ -16,6 +16,8 @@ You need java 17 and prism, you can find both below:
 
 [Resource Pack Load order](#Resource-Pack-Load-Order)
 
+[IMPORTANT PATCH/FIX](#Important-Fix)
+
 ## Setting up Prism
 When first starting prism you are going to be guided through a startup wizard, here are my recomendations
 
@@ -63,3 +65,14 @@ By default I have only enabled small UI modifications on your first run. If howe
 ![](https://cdn.discordapp.com/attachments/656911474525995021/1190735321613226104/17039639684323499.png?ex=65a2e1af&is=65906caf&hm=2db72821b1d0b544dccabdb51e09cd85549c0e438b5e8ca1e9473fe5454573e8&)
 
 ![](https://cdn.discordapp.com/attachments/656911474525995021/1190735321906815018/17039639684323499.png?ex=65a2e1af&is=65906caf&hm=a4837214a050d7295d6511f7f0c06153c149c6460ddb3eabf199fd0e77607e75&)
+
+## Important Fix
+
+I have chronic brainrot and by default the recipe browser has cheating turned on. This wont work but will lag you.
+in the bottom of your inventory hover over this:
+
+![](https://cdn.discordapp.com/attachments/656911474525995021/1190741116530728971/17039653505705382.png?ex=65a2e715&is=65907215&hm=172cd334eecc3328ae2bdd0e62bee58afb9118a9988a66441aa67bdeb338b88d&)
+
+Then click on cheating to turn it off and restore normal play
+
+![](https://cdn.discordapp.com/attachments/656911474525995021/1190741152245231688/17039653585713824.png?ex=65a2e71d&is=6590721d&hm=df64d66784be5734c446b3034d040586ab6b7650ab961e35fb8c75b58907d0e7&)

@@ -25,6 +25,7 @@ You will also notice at the bottom, I have set maximum memory allocation to 1200
 
 The minimum this value can be is 10000 Mib which means you system needs at least **12gb of ram** for ideal play.
 I **cannot** fix this. This is the nature of 611 mods.
+
 ![](https://cdn.discordapp.com/attachments/656911474525995021/1190471179140608121/170390099026952728.png?ex=65a1ebae&is=658f76ae&hm=70eab10a81c97e791ce0a0ed09d5b8f29e3d04d93789e6a4d91e314bfb15205d&)
 
 ### Interface
@@ -32,6 +33,7 @@ If you are a dark mode stan like most users seem to be these days I suggest, fla
 if you are a bright mode paragon I suggest flat black icons and light widgets
 
 The choice of you chosen cat soilder is not mandated but the republic does wish to remind you that there is *only* one **correct** choice.
+
 ![](https://cdn.discordapp.com/attachments/656911474525995021/1190471303703040000/170390102026982576.png?ex=65a1ebcc&is=658f76cc&hm=c09eefef0f3948a19382785ae9086a406ded0b18d4d4e9b49a14f8a05ef936f0&)
 
 ## Adding the modpack
@@ -39,10 +41,12 @@ Here are the steps for adding the modpack to Prism
 
 ### Add a new instance
 In the top left click, add instance
+
 ![](https://cdn.discordapp.com/attachments/656911474525995021/1190471430190678147/170390105027012763.png?ex=65a1ebea&is=658f76ea&hm=2609b4f646fe00f2c872933dd2a925eaf874f48063ed2b09e7cecaa698910b12&)
 
 ### Import
 Make sure on the left hand side, import is selected instead of custom
+
 ![](https://cdn.discordapp.com/attachments/656911474525995021/1190471483517063249/170390106327025507.png?ex=65a1ebf7&is=658f76f7&hm=26dd7c5320ef366a81a17b8b917aa7547036cd66ec9900742c71dd5cd3261c5d&)
 
 After that just select the TimbobsServer.zip you downloaded earlier and it will import all of the default files.

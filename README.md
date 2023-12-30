@@ -14,7 +14,7 @@ You need java 17 and prism, you can find both below:
 
 [Get the modpack](https://drive.google.com/file/d/19AJ7Rz8mjl2VkOGs8B3saYx-bkRqe5eE/view?usp=sharing)
 
-[Resource Pack Load order](##Resource-Pack-Load-Order)
+[Resource Pack Load order](#Resource-Pack-Load-Order)
 
 ## Setting up Prism
 When first starting prism you are going to be guided through a startup wizard, here are my recomendations

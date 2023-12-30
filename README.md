@@ -23,7 +23,7 @@ When first starting prism you are going to be guided through a startup wizard, h
 Make sure under version you select the one that says 17. Your system may have multiple versions like mine does.
 You will also notice at the bottom, I have set maximum memory allocation to 12000 MiB
 
-The minimum this value can be is 10000 Mib which means you system needs at least **12gb of ram **for ideal play.
+The minimum this value can be is 10000 Mib which means you system needs at least **12gb of ram** for ideal play.
 I **cannot** fix this. This is the nature of 611 mods.
 ![](https://cdn.discordapp.com/attachments/656911474525995021/1190471179140608121/170390099026952728.png?ex=65a1ebae&is=658f76ae&hm=70eab10a81c97e791ce0a0ed09d5b8f29e3d04d93789e6a4d91e314bfb15205d&)
 
